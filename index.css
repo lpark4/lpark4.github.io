@@ -1,0 +1,109 @@
+﻿
+
+.background-image {
+    
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+h1 {
+   text-align:center;
+}
+
+.cs {
+    text-align:center;
+}
+
+.red {
+    color:red;
+    font-weight:bold;
+}
+
+.quote {
+    text-align:center;
+    font-style:oblique;
+    font-family:'Times New Roman', Times, serif
+}
+
+a:link {
+    color:darkgray;
+}
+
+a:visited {
+    color: lightblue;
+}
+a:hover {
+    color:black;
+}
+
+h2 {
+   text-align:center;
+}
+
+img {
+    text-align:center;
+    border:0;
+    width:150px;
+    height:200px;
+}
+
+h3 {
+    line-height:0.5px;
+    margin:0;
+}
+
+h4 {
+    line-height:0.5px;
+    margin:0;
+}
+
+h5 {
+    line-height:0.5px;
+    font-size: 16px;
+    margin:0;
+}
+
+h6 {
+   line-height:0.5px;
+    font-size: 16px;
+    margin:0;
+}
+
+tr:nth-child(even) {
+    color:white;
+  background-color: black;
+}
+
+
+tr:nth-child(odd) {
+  background-color: white;
+}
+.table-required {
+    border:0;
+    text-align: center;
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+ol {
+    text-align:left;
+    vertical-align:middle;
+    list-style-type:inside;
+    display:inline-block;
+}
+
+ul {
+    text-align:left;
+    vertical-align:middle;
+    display:inline-block;
+}
+
+p{
+    text-align:center;
+    display:inline-block;
+}
+
